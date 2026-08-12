@@ -167,5 +167,3 @@ a chat and ask Claude to look at the results.
 - Add more free sources (e.g. RemoteOK, USAJobs, other companies' Greenhouse/Lever
   boards) by adding a new file under `job_sources/` following the same pattern
   as `remotive.py`.
-- A2A (agent-to-agent) support was intentionally left out of this version per
-  the SRS — add it later only if you split this into multiple independent agents.
